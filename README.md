@@ -1,4 +1,4 @@
-# React + Vite
+# React 19 + Vite
 
 Pluralsight course: **React Fundamentals** by Roland Guijit
 
